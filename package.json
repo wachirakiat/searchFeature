@@ -1,0 +1,16 @@
+{
+  "name": "searchfeature",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open" : "./node_modules/.bin/cypress open"
+  },
+  "author": "Wachirakiat Nithibenyaphisamai",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/cypress": "^8.0.2",
+    "cypress": "^9.1.1"
+  },
+  "dependencies": {},
+  "description": ""
+}
